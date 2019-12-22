@@ -8,5 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="textView">
+        <item name="android:layout_width">0sp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
 
 </resources>

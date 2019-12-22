@@ -10,4 +10,5 @@
     <string name="title_language">选择语言</string>
     <string name="tuesday">星期二</string>
     <string name="wednesday">星期三</string>
+    <string name="days">• %s\n• %s\n• %s\n• %s\n• %s\n• %s\n• %s</string>
 </resources>

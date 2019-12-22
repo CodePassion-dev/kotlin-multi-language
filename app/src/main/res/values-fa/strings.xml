@@ -10,4 +10,5 @@
     <string name="title_language">زبان را انتخاب کنید</string>
     <string name="tuesday">سهشنبه</string>
     <string name="wednesday">چهار شنبه</string>
+    <string name="days">• %s\n• %s\n• %s\n• %s\n• %s\n• %s\n• %s</string>
 </resources>

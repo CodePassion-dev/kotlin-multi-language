@@ -10,4 +10,5 @@
     <string name="title_language">Chọn ngôn ngữ</string>
     <string name="tuesday">Thứ Ba</string>
     <string name="wednesday">Thứ Tư</string>
+    <string name="days">• %s\n• %s\n• %s\n• %s\n• %s\n• %s\n• %s</string>
 </resources>

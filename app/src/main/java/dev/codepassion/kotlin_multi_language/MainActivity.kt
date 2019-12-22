@@ -24,7 +24,17 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener, Vi
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        languageList = MainViewModel().languageList
+        daysTextView.text = getString(R.string.days).format(
+            getString(R.string.monday),
+            getString(R.string.tuesday),
+            getString(R.string.wednesday),
+            getString(R.string.thursday),
+            getString(R.string.friday),
+            getString(R.string.saturday),
+            getString(R.string.sunday)
+        )
+
+        languageList = MainViewModel().loadLanguage()
         spinner.adapter = SpinnerAdapter(this, languageList)
 
         spinner.setOnTouchListener(this)

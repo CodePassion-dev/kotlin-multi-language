@@ -10,4 +10,5 @@
     <string name="title_language">भाषा छनोट गर्नुस</string>
     <string name="tuesday">मंगलबार</string>
     <string name="wednesday">बुधवार</string>
+    <string name="days">• %s\n• %s\n• %s\n• %s\n• %s\n• %s\n• %s</string>
 </resources>

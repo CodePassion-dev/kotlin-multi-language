@@ -5,7 +5,7 @@
             <item>
                 <shape>
                     <stroke
-                        android:width="2dp"
+                        android:width="1dp"
                         android:color="@color/colorAccent" />
                     <padding
                         android:bottom="4dp"
@@ -14,7 +14,8 @@
                         android:top="4dp" />
                 </shape>
             </item>
-            <item>
+            <item
+                android:right="10dp">
                 <bitmap
                     android:gravity="right|center_vertical"
                     android:src="@android:drawable/arrow_down_float" />
