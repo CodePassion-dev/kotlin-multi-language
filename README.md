@@ -1,9 +1,9 @@
 ## Screenshots
-<p float="left">
-  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_1.png" width="100" />
-  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_2.png" width="100" /> 
-  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_3.png" width="100" />
-  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_4.png" width="100" />
+<p align="middle">
+  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_1.png" width="150" />
+  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_2.png" width="150" /> 
+  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_3.png" width="150" />
+  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_4.png" width="150" />
 </p>
 
 ## Features
@@ -11,7 +11,12 @@
 - Kotlin programming language support.
 - Changing application language programmatically.
 
-## Change app language
+## Requirements
+
+- Mininum API level: 16.
+- Android Studio 3.5.3 or above.
+
+## Code
 
 ```kotlin
 val languageCode = "en"
@@ -24,11 +29,6 @@ resources.updateConfiguration(config, resources.displayMetrics)
 
 recreate()
 ```
-
-## Requirements
-
-Android Studio 3.5.3 or above.
-Mininum API level: 16.
 
 ## Find me on:
 
