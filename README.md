@@ -1,9 +1,9 @@
 ## Screenshots
 <p align="middle">
-  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_1.png" width="150" />
-  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_2.png" width="150" /> 
-  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_3.png" width="150" />
-  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_4.png" width="150" />
+  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_1.png" width="200" />
+  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_2.png" width="200" /> 
+  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_3.png" width="200" />
+  <img src="https://raw.githubusercontent.com/duonghominhhuy/kotlin-multi-language/master/Screenshots/Screenshot_4.png" width="200" />
 </p>
 
 ## Features
