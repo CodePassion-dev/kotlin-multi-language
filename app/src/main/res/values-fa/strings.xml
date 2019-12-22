@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kotlin-multi-language</string>
+    <string name="friday">جمعه</string>
+    <string name="monday">دوشنبه</string>
+    <string name="saturday">شنبه</string>
+    <string name="sunday">یکشنبه</string>
+    <string name="thursday">پنج شنبه</string>
+    <string name="title_days">روزهای هفته</string>
+    <string name="title_language">زبان را انتخاب کنید</string>
+    <string name="tuesday">سهشنبه</string>
+    <string name="wednesday">چهار شنبه</string>
+</resources>

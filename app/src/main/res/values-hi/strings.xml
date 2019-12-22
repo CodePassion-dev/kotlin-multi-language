@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kotlin-multi-language</string>
+    <string name="friday">शुक्रवार</string>
+    <string name="monday">सोमवार</string>
+    <string name="saturday">शनिवार</string>
+    <string name="sunday">रविवार</string>
+    <string name="thursday">गुरूवार</string>
+    <string name="title_days">सप्ताह के दिन</string>
+    <string name="title_language">भाषा का चयन करें</string>
+    <string name="tuesday">मंगलवार</string>
+    <string name="wednesday">बुधवार</string>
+</resources>

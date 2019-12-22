@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kotlin-multi-language</string>
+    <string name="friday">Vendredi</string>
+    <string name="monday">Lundi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+    <string name="thursday">Jeudi</string>
+    <string name="title_days">Jours de la semaine</string>
+    <string name="title_language">Choisir la langue</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+</resources>

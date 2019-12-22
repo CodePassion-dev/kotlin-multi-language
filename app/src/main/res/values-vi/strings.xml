@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kotlin-multi-language</string>
+    <string name="friday">Thứ Sáu</string>
+    <string name="monday">Thứ Hai</string>
+    <string name="saturday">Thứ Bảy</string>
+    <string name="sunday">Chủ Nhật</string>
+    <string name="thursday">Thứ Năm</string>
+    <string name="title_days">Các ngày trong tuần</string>
+    <string name="title_language">Chọn ngôn ngữ</string>
+    <string name="tuesday">Thứ Ba</string>
+    <string name="wednesday">Thứ Tư</string>
+</resources>

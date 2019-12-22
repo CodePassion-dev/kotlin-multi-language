@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base. -->
+    <string name="app_name">kotlin-multi-language</string>
+
+    <!-- Main. -->
+    <string name="title_days">Days of Week</string>
+    <string name="title_language">Select Language</string>
+
+    <!-- Days. -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+
+</resources>
