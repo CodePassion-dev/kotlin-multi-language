@@ -37,6 +37,10 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener, Vi
         languageList = MainViewModel().loadLanguage()
         spinner.adapter = SpinnerAdapter(this, languageList)
 
+        val currentLanguage = Locale.getDefault().getLanguage()
+        val index: Int = languageList.indexOfFirst { l -> l.code == currentLanguage }
+        spinner.setSelection(index)
+
         spinner.setOnTouchListener(this)
         spinner.onItemSelectedListener = this
 
