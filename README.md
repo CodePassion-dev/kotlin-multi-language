@@ -32,10 +32,9 @@ recreate()
 
 ## Find me on:
 
-- [Website](https://codepassion.dev)
-- [GitHub](https://github.com/duonghominhhuy)
-- [Twitter](https://twitter.com/duonghominhhuy)
-- [Facebook](https://www.facebook.com/codepassion.dev)
+- [GitHub](https://github.com/duonghominhhuy) and [Twitter](https://twitter.com/duonghominhhuy)
+- Website: [https://codepassion.dev](https://codepassion.dev)
+- Facebook: [https://fb.com/codepassion.dev](https://www.facebook.com/codepassion.dev)
 
 ## License
 
